@@ -28,10 +28,4 @@ const selector_function = (state)=>{
 };
 export default Selector(selector_function, App);
 
-// - [ ] submit, help Jiaming to get started
-// - [ ] get luna-saga to work, so that jiaming can play with it
-// - [ ] write a simple count-down clock with reducer
-// - [ ] intercept the count-down termination, and make a http call
-// - [ ] inplement the `take` interceptor with a saga and the `take` side effect.
-// - [ ] write a simple code that grabs a list of files from dropbox or github
 
